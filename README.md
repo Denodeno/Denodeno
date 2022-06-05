@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Denodeno
-- 👀 I’m interested in solidity and javascript 
+- 👀 I’m interested in blockchain analysis, javascript and solidity 
 - 🌱 I’m currently learning solidity 
 
 
